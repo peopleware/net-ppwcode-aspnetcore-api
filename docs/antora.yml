@@ -1,0 +1,5 @@
+name: ppwcode-aspnetcore-api-i
+version: ~
+title: PPWCode.AspNetCore.API.I
+nav:
+  - modules/ROOT/nav.adoc
